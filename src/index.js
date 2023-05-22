@@ -10,3 +10,4 @@ root.render(
     <App />
   </React.StrictMode>
 );
+//intento resolver un conflicto con git
